@@ -1,4 +1,4 @@
-name: CI
+YASH AHERname: CI
 
 on: [push, workflow_dispatch]
 
